@@ -1,4 +1,4 @@
-PUNCH☆MIND☆HAPPINE をRaspberry Pi 3に接続されたブザーで鳴らす
+PUNCH☆MIND☆HAPPINES をRaspberry Pi 3に接続されたブザーで鳴らす
 ---
 
 ~~~
