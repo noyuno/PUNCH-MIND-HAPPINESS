@@ -85,7 +85,7 @@ def play(scale, melody, speed, tanging, duty):
             en=True
             t=60.0 / speed * m["length"]
             t1=60.0 / speed / 10.0
-            ordertime=0.00050
+            ordertime=0.00080
             ttang=0.0
             lastlength=m["length"]
             if m["pause"]:
