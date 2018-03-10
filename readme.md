@@ -16,5 +16,6 @@ python3 buzzer.py
 python3 buzzer.py 38
 ~~~
 
+[melody.m4a](https://raw.githubusercontent.com/noyuno/PUNCH-MIND-HAPPINESS/master/melody.m4a)
 [hook.m4a](https://raw.githubusercontent.com/noyuno/PUNCH-MIND-HAPPINESS/master/hook.m4a)
 
