@@ -11,4 +11,8 @@ python3 buzzer.py
 ピン番号はGPIO番号で，`BUZZER_GPIO_PIN`に記載．
 抵抗は10[kΩ]くらいは入れたらいいんでね
 
+サビから
+~~~
+python3 buzzer.py 38
+~~~
 
